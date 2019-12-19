@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="codigo" type="id" />
+    <item name="nombre" type="id" />
+    <item name="precio" type="id" />
+</resources>
